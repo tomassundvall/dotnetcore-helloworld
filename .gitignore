@@ -1,0 +1,10 @@
+.vscode
+src/*/obj
+src/*/bin
+src/*/out
+src/*/tmp
+.vs/
+*.pdf
+*.swp
+src/Tool.ReportGenerator/output
+.DS_Store
